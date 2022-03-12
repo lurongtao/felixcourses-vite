@@ -1,0 +1,11 @@
+{
+  "hash": "59d5354d",
+  "browserHash": "32c6f37a",
+  "optimized": {
+    "vue": {
+      "file": "/Users/felixlu/Desktop/felixcourses/vite/vite-basics-vue/.cache/vue.js",
+      "src": "/Users/felixlu/Desktop/felixcourses/vite/vite-basics-vue/node_modules/.pnpm/registry.npmmirror.com+vue@3.2.28/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "needsInterop": false
+    }
+  }
+}

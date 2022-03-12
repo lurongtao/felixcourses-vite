@@ -1,0 +1,10 @@
+@import url(@styles/hello.css);
+@import url(@styles/sass-test.scss);
+/* @import url(@styles/less-test.less); */
+/* @import url(@styles/stylus-test.styl) */
+
+.title {
+  span {
+    color: green;
+  }
+}
